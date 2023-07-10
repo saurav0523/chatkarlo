@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660767042721",
+    "project_id": "chat-karlo-d7371",
+    "storage_bucket": "chat-karlo-d7371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660767042721:android:8bc04b67055497fa8d54e0",
+        "android_client_info": {
+          "package_name": "com.example.chatkarlo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660767042721-ohllmtuv6gqjiof1apc5tmrut8hfc08n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPYZBC_dc9RQ52YQK_SuSSySyz6gutkRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660767042721-ohllmtuv6gqjiof1apc5tmrut8hfc08n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
